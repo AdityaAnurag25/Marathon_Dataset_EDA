@@ -5,7 +5,7 @@ The libraries used in this exploratory analysis are Pandas for data manipulation
 The EDA consisted of multiple steps, namely, data extraction, data cleaning, data restructuring, data visualization and data analysis.
 
 # Data Extraction
-The dataset was extracted from the kaggle.com (https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/discussion/420633) and stored in a dataframe. 
+The dataset was extracted from the kaggle.com (https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/discussion/420633) and stored in a dataframe. The dataset was first stored in a google drive folder and then was extracted into the jupyter notebook.
 
 # Data Cleaning
 In this step, the dataset was cleaned by first applying certain filters to obtain a dataframe containing only relevant data.
